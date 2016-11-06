@@ -19,7 +19,7 @@
 #
 ##############################################################################
 
-from odoo.addons.web import http
+from odoo.addons import http
 from odoo.http import request
 
 CONFIG_FIELDS = [
