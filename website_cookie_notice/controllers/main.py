@@ -19,8 +19,8 @@
 #
 ##############################################################################
 
-from openerp.addons.web import http
-from openerp.http import request
+from odoo.addons.web import http
+from odoo.http import request
 
 CONFIG_FIELDS = [
     'cookieAnalytics',
