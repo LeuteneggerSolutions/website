@@ -19,8 +19,8 @@
 #
 ##############################################################################
 
-from openerp import models, fields
-from openerp.tools.translate import _
+from odoo import models, fields
+from odoo.tools.translate import _
 
 
 class Company(models.Model):
