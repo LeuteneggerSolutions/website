@@ -21,7 +21,7 @@
 {
     'name': 'Cookie notice',
     'summary': 'Show cookie notice according to cookie law',
-    'version': '8.0.1.0.0',
+    'version': '10.0.0.0.0',
     'category': 'Website',
     'author': "Agile Business Group,Odoo Community Association (OCA)",
     'website': 'http://www.agilebg.com',
@@ -35,6 +35,6 @@
     ],
     'qweb': [
     ],
-    'installable': False,
+    'installable': True,
     'auto_install': False,
 }
